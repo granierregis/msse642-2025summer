@@ -55,7 +55,9 @@ git clone https://github.com/granierregis/msse642-2025summer.git
 - Using VSC, stage your changes, commit with a meaningful commit message, and push to your remote repo using VSC. 
 
 
+![Visual Studio Code](./files/screenshots/Assignment2-5.jpg)
 
+![Visual Studio Code](./files/screenshots/Assignment2-6.jpg)
 
 # WHAT TO TURN IN
 
