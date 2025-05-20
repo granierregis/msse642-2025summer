@@ -1,9 +1,9 @@
 # Assignments for Git Hub Project 
 
 # Assignments 
-[Assignment #1 (Due Week 2)](./Assignment1.md)
-[Assignment #2 (Due Week 3)](./Assignment2.md)
-[Assignment #3 (Due Week 4)](./Assignment3.md)
+- [Assignment #1 (Due Week 2)](./Assignment1.md)
+- [Assignment #2 (Due Week 3)](./Assignment2.md)
+- [Assignment #3 (Due Week 4)](./Assignment3.md)
 
 # References
 
