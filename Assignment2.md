@@ -2,6 +2,8 @@
 
 ## Objective
 This week you will:  
+- Work with Visual Studio Code and Version Control
+- Learn to write good markdown and a good README file. 
 
 ## PREREQUISITES  
 - Windows users only: Git Bash installed (not necessary for Mac and Linux)
