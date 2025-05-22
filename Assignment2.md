@@ -1,4 +1,4 @@
-# ASSIGNMENT #2
+# ASSIGNMENT #2 (COMPLETE)
 
 ## Objective
 This week you will:  
