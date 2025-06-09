@@ -4,9 +4,9 @@
 - [Assignment #1 (Due Week 2)](./Assignment1.md)
 - [Assignment #2 (Due Week 3)](./Assignment2.md)
 - [Assignment #3 (Due Week 4)](./Assignment3.md)
-- [Assignment #4 (Due Week 5)](./Assignment4.md)
-- [Assignment #5 (Due Week 6)](./Assignment5.md)
-- [Assignment #6 (Due Week 8)](./Assignment6.md)
+- [Assignment #4 (Due Week 6)](./Assignment4.md)
+- [Assignment #5 (Due Week 7)](./Assignment5.md)
+
 
 # References
 
