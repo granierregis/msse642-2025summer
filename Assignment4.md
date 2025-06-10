@@ -33,6 +33,21 @@ the local and remote branches.   Is there a remote branch create yet?
 
 ![alt text](files/screenshots/image-3.png)
 
+- What is different when you run git branch and git branch -r?  
+
+- When you are done making your changes, go to Git Hub (the URL), and issue a pull request to merge your feature branch on the remote repo.  This will also delete your remote feature branch.  Will the local feature branch still exist?  
+
+![alt text](files/screenshots/image-4.png)
+
+- Since your feature is complete, then delete the remote repo.  First, run the following command 
+to update the local metadata.  
+
+```
+git fetch -p
+```
+
+
+
 ### A Typical Git Flow
 ![A typical Git Flow](./files/diagrams/git-flow-1.excalidraw.png)
 
@@ -41,6 +56,7 @@ the local and remote branches.   Is there a remote branch create yet?
 # WHAT TO TURN IN
 
 - In the Slack channel #github-project, post the link to your GitHub repo that you created above when you are done.
+- Include screenshots for the steps above.  
 - Your assignment will be completed in a markdown file. 
 - Name the markdown file:
 
